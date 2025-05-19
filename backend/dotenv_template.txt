@@ -1,0 +1,16 @@
+# for aws s3
+aws_access_key_id = 
+aws_secret_access_key = 
+aws_bucket_name = 
+aws_bucket_region = 
+
+# for postgres
+hostname = 
+database = 
+user = 
+port = 
+pwd = 
+
+# jwt encoding/decoding
+priv= 
+pub = 
